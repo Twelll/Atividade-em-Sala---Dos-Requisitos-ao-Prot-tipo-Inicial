@@ -1,6 +1,6 @@
 """
 ==============================================================================
-PASSO 1: PLANO DE EXECUÇÃO (Critério do Roteiro)
+PASSO 1: PLANO DE EXECUÇÃO 
 ==============================================================================
 Requisitos escolhidos:
 1. Requisito 1: Consulta de Vagas Disponíveis (contagem e status individual)
