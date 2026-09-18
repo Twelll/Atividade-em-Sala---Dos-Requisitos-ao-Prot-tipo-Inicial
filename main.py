@@ -75,6 +75,6 @@ Requisito mais difícil:
 Uso de IA:
 Ajudou: Me ajudou a programar e lembrar github
 Atrapalhou: Fez coisas que não precisava,
-então tive trocar algumas coisas
+então tive trocar algumas coisas. Também tive que conferir tudo, para ter certeza que realmente cumpria os requisitos
 ==============================================================================
 """
